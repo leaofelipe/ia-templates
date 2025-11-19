@@ -9,6 +9,8 @@ Collection of AI prompt templates and coding rules for consistent code generatio
   - `js-ts.md` - JavaScript/TypeScript specific rules and security guidelines
   - `project.md` - Project structure templates
   - `unit-tests.md` - Testing best practices
+- `commands/` - AI prompt templates for specific tasks
+  - `frontend-code-review.md` - Code review guidelines and template
 
 ## Usage
 
